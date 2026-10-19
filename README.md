@@ -6,7 +6,7 @@
 
 **把想做的事，拆成一步步。**
 
-[下载 APK](#下载) · [官网](https://08933af6233448b7a91ab1f91658f755.sg2.agentos-app.run) · [更新日志](CHANGELOG.md) · [反馈问题](https://github.com/32555599/yuboo-release/issues)
+[下载 APK](#下载) · [官网](https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run) · [更新日志](CHANGELOG.md) · [反馈问题](https://github.com/32555599/yuboo-release/issues)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 | 渠道 | 地址 |
 |---|---|
-| 官方网站（推荐，国内速度快） | <https://08933af6233448b7a91ab1f91658f755.sg2.agentos-app.run/download.html> |
+| 官方网站（推荐，国内速度快） | <https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run/download.html> |
 | 本仓库下载页 | <https://32555599.github.io/yuboo-release/download.html> |
 | 直接下载 APK | [`docs/assets/yuboo-1.0.apk`](docs/assets/yuboo-1.0.apk) · 3.11 MB |
 | GitHub Releases | [v1.0](https://github.com/32555599/yuboo-release/releases) |
@@ -38,7 +38,7 @@
 SHA-256: b2306840eca9592a7ef9f1d9b4290cd9572f52ab7741598afaaac5eeeafcfa4f
 ```
 
-安装前请先核对上面的校验值。具体安装步骤见[下载页](https://08933af6233448b7a91ab1f91658f755.sg2.agentos-app.run/download.html)。
+安装前请先核对上面的校验值。具体安装步骤见[下载页](https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run/download.html)。
 
 ## 功能
 
