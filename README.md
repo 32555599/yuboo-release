@@ -8,12 +8,10 @@
 
 [下载 APK](#下载) · [官网](https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run) · [更新日志](CHANGELOG.md) · [反馈问题](https://github.com/32555599/yuboo-release/issues)
 
+> **⚠️ 版权所有 · 专有软件 · 禁止商用 · 禁止二次修改。**
+> 可免费个人使用，可原样分享；**不可商用、不可修改、不可逆向**。详见 [LICENSE](LICENSE)。
+
 </div>
-
----
-
-> **⚠️ 本项目禁止任何商业使用。** 允许个人使用、学习、修改与分享；禁止售卖、内置进商业产品、用于商业服务或任何形式的变现。
-> 详见 [LICENSE](LICENSE)（PolyForm Noncommercial License 1.0.0）与[中文说明](LICENSE.zh.md)。
 
 ## 这是什么
 
@@ -29,13 +27,13 @@
 |---|---|
 | 官方网站（推荐，国内速度快） | <https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run/download.html> |
 | 本仓库下载页 | <https://32555599.github.io/yuboo-release/download.html> |
-| 直接下载 APK | [`docs/assets/yuboo-1.0.apk`](docs/assets/yuboo-1.0.apk) · 3.11 MB |
+| 直接下载 APK | [`docs/assets/yuboo-1.0.apk`](docs/assets/yuboo-1.0.apk) · 10.30 MB |
 | GitHub Releases | [v1.0](https://github.com/32555599/yuboo-release/releases) |
 
-**v1.0** · 3,263,605 字节 · Android 5.0（API 21）及以上 · 无需注册 · 无需联网权限
+**v1.0** · 10,795,422 字节 · Android 5.0（API 21）及以上 · 无需注册 · 无需联网权限
 
 ```
-SHA-256: b2306840eca9592a7ef9f1d9b4290cd9572f52ab7741598afaaac5eeeafcfa4f
+SHA-256: 2773b3e42ab77b381691693b3f157b230805c056add36e6d2c2f9376d31a3356
 ```
 
 安装前请先核对上面的校验值。具体安装步骤见[下载页](https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run/download.html)。
@@ -63,6 +61,17 @@ docs/assets/yuboo-1.0.apk  安装包
 
 ## 许可
 
-[PolyForm Noncommercial License 1.0.0](LICENSE) —— 个人使用、学习研究、修改代码、二次开发、分享都可以；商业用途一律不行。
+**版权所有 © 2026 自诩。保留所有权利。**
 
-`Required Notice: Copyright © 2026 Qixuowo (https://github.com/32555599)`
+这不是开源软件，是**免费专有软件**。完整条款见 [LICENSE](LICENSE)，通俗解释见 [LICENSE.zh.md](LICENSE.zh.md)。
+
+| ✅ 可以 | ❌ 不可以 |
+|---|---|
+| 个人免费下载、安装、使用 | **任何商业用途**（售卖、内置商业产品、商业服务、广告订阅变现） |
+| 把**原版**安装包免费分享给他人 | **任何形式的二次修改**（含个人使用，反编译、重打包、移植都禁止） |
+| 推荐给朋友、口头安利 | 去除作者署名、申请软著/商标/专利 |
+| 就使用问题提 Issue | 拿它做外包交付物或投标材料 |
+
+想商用、想改代码、想学习源码，请到 [Issues](https://github.com/32555599/yuboo-release/issues) 联系作者单独谈授权。
+
+`Required Notice: Copyright © 2026 自诩 (https://github.com/32555599)`
