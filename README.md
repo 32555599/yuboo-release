@@ -6,7 +6,7 @@
 
 **把想做的事，拆成一步步。**
 
-[下载 APK](#下载) · [官网](https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run) · [更新日志](CHANGELOG.md) · [反馈问题](https://github.com/32555599/yuboo-release/issues)
+[下载 APK](#下载) · [官网](https://32555599.github.io/yuboo-release/) · [更新日志](CHANGELOG.md) · [反馈问题](https://github.com/32555599/yuboo-release/issues)
 
 > **⚠️ 版权所有 · 专有软件 · 禁止商用 · 禁止二次修改。**
 > 可免费个人使用，可原样分享；**不可商用、不可修改、不可逆向**。详见 [LICENSE](LICENSE)。
@@ -23,20 +23,24 @@
 
 ## 下载
 
-| 渠道 | 地址 |
-|---|---|
-| 官方网站（推荐，国内速度快） | <https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run/download.html> |
-| 本仓库下载页 | <https://32555599.github.io/yuboo-release/download.html> |
-| 直接下载 APK | [`docs/assets/yuboo-1.0.apk`](docs/assets/yuboo-1.0.apk) · 10.30 MB |
-| GitHub Releases | [v1.0](https://github.com/32555599/yuboo-release/releases) |
+| 渠道 | 地址 | 说明 |
+|---|---|---|
+| **官方下载页（永久地址）** | <https://32555599.github.io/yuboo-release/download.html> | 印刷在海报和宣传片二维码上的就是这一条，长期有效 |
+| GitHub Releases | [v1.0](https://github.com/32555599/yuboo-release/releases) | 附件形式，适合要历史版本的人 |
+| 直接下载 APK | [`docs/assets/yuboo-1.0.apk`](docs/assets/yuboo-1.0.apk) · 10.30 MB | 仓库内直链 |
+| 高速镜像 | <https://a3846126be7247e688132357dc918736.sg2.agentos-app.run> | 国内打开更快，但**每次重新部署官网都会换地址**，不适合印在物料上 |
 
 **v1.0** · 10,795,422 字节 · Android 5.0（API 21）及以上 · 无需注册 · 无需联网权限
+
+> **关于两个域名**：GitHub Pages 是**永久地址**，海报和宣传片上的二维码都指向它。
+> 另一个高速镜像（`*.agentos-app.run`）在国内打开更快，但**每次重新部署都会换成新域名、旧域名立即失效**，
+> 所以不要把它印在任何物料上。
 
 ```
 SHA-256: 2773b3e42ab77b381691693b3f157b230805c056add36e6d2c2f9376d31a3356
 ```
 
-安装前请先核对上面的校验值。具体安装步骤见[下载页](https://9e7140163ebe4586a717b72731c7c27c.sg2.agentos-app.run/download.html)。
+安装前请先核对上面的校验值。具体安装步骤见[下载页](https://32555599.github.io/yuboo-release/download.html)。
 
 ## 功能
 
